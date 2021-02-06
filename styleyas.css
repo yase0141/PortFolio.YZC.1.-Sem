@@ -151,3 +151,13 @@ h1.title{
 .footer a{
 	color: #fff;
 }
+@media (max-width: 720px){
+	.navbar{
+		height: auto;
+		flex-direction: column;
+	}
+
+	.navbar ul{
+		flex-direction: column;
+		text-align: center;
+	}
