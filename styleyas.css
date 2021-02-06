@@ -46,3 +46,7 @@ h1.title{
 	align-items: center;
 	position: absolute;
 }
+.logo a{
+	font-family: 'Allura', cursive;
+	font-size: 32px;
+	color: #fb2274;
