@@ -88,4 +88,11 @@ h1.title{
     .banner_content h1 span{
         color: #fb2274;
     }
+    .ommig,
+.projekter,
+.kontakt,
+.uddanelse{
+	padding: 5% 10%;
+    text-align: center;
     
+}
