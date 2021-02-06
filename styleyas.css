@@ -161,3 +161,7 @@ h1.title{
 		flex-direction: column;
 		text-align: center;
 	}
+    .navbar ul li{
+		margin-bottom: 5px;
+    }
+}
