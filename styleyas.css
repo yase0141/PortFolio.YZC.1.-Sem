@@ -36,3 +36,6 @@ h1.title{
 	color: #fb2274;
 	text-align: center;
 }
+.main_container{
+	position: relative;
+}
