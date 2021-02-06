@@ -96,3 +96,27 @@ h1.title{
     text-align: center;
     
 }
+.projekter{
+	background: #f5f5f5;
+}
+
+.diff_projekter{
+	display: flex;
+	margin-top: 35px;
+	justify-content: space-between;
+}
+
+.diff_projekter_item{
+	width: 30%;
+}
+
+.diff_projekter_item img{
+	width: 100%;
+    margin-bottom: 25px;
+   
+}
+
+.diff_projekter_item h3{
+	color: #fb2274;
+	margin-bottom: 15px;
+}
