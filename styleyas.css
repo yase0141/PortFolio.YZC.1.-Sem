@@ -17,3 +17,12 @@ p{
 	line-height: 20px;
 	color: #a9a9a9;
 }
+h1.title{
+	margin-bottom: 20px;
+	color: #444444;
+	font-family: 'Allura', cursive;
+	text-transform: uppercase;
+	font-size: 38px;
+	word-spacing: 25px;
+	letter-spacing: 5px;
+}
