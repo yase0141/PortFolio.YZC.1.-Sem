@@ -49,4 +49,19 @@ h1.title{
 .logo a{
 	font-family: 'Allura', cursive;
 	font-size: 32px;
-	color: #fb2274;
+    color: #fb2274;
+}
+    .navbar .navbar_items ul{
+        display: flex;
+    }
+    
+    
+    .navbar .navbar_items ul li{
+        text-transform: uppercase;
+        margin: 0 10px;
+    }
+    
+    .navbar .navbar_items ul li a{
+        color: #fff;
+    }
+    
