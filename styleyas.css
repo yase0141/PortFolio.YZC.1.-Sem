@@ -26,3 +26,13 @@ h1.title{
 	word-spacing: 25px;
 	letter-spacing: 5px;
 }
+.btn a{
+	display: block;
+	width: 180px;
+	height: 35px;
+	border: 2px solid #fb2274;
+	line-height: 35px;
+	margin: 25px auto 0;
+	color: #fb2274;
+	text-align: center;
+}
